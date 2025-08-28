@@ -1,9 +1,5 @@
 # <img src="assets/letter-r.png" alt="Logo" width="50" height="50"> Rehman Saleem - Portfolio 💻✨
 
-<div align="center">
-  <img src="assets/IMG_2647.JPG" alt="Rehman Saleem" width="200" height="200" style="border-radius:50%; border: 4px solid #ff4ecb; box-shadow: 0 0 25px rgba(255, 0, 128, 0.8);">
-</div>
-
 ## 👋 Welcome to My Digital Space!
 
 > **Shopify Developer & Theme Customization Expert | E-commerce Specialist**
