@@ -1,16 +1,14 @@
-#  <img src="assets/letter-r.png" alt="Logo" width="50" height="50">Rehman Saleem - Portfolio 💻✨
+# <img src="assets/letter-r.png" alt="Logo" width="50" height="50"> Rehman Saleem - Portfolio 💻✨
 
 <div align="center">
-  <img src="assets/IMG_2647.JPG" alt="Rehman Saleem" width="200" height="300" style="border-radius:50%; border: 4px solid #ff4ecb; box-shadow: 0 0 25px rgba(255, 0, 128, 0.8);">
-  
- 
+  <img src="assets/IMG_2647.JPG" alt="Rehman Saleem" width="200" height="200" style="border-radius:50%; border: 4px solid #ff4ecb; box-shadow: 0 0 25px rgba(255, 0, 128, 0.8);">
 </div>
 
 ## 👋 Welcome to My Digital Space!
 
-> **AI-Powered Web Developer | Chatbot Automation Specialist | Creative Problem Solver**
+> **Shopify Developer & Theme Customization Expert | E-commerce Specialist**
 
-I build cutting-edge web solutions that combine responsive design with intelligent AI capabilities. With expertise in frontend development, Shopify customization, and interactive animations, I create digital experiences that make a difference.
+I specialize in creating stunning, high-converting Shopify stores with custom themes and seamless user experiences. With expertise in Shopify development, theme customization, and e-commerce optimization, I help businesses maximize their online sales potential.
 
 ---
 
@@ -18,63 +16,70 @@ I build cutting-edge web solutions that combine responsive design with intellige
 
 | Category | Technologies | Proficiency |
 |---------|-------------|-------------|
-| **Frontend** | React, Next.js, JavaScript, TypeScript | ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js, Python, FastAPI | ⭐⭐⭐⭐⭐ |
-| **AI & Automation** | Chatbots, AI Integration, NLP | ⭐⭐⭐⭐☆ |
-| **Design** | UI/UX, Prototyping, Responsive Design | ⭐⭐⭐⭐☆ |
-| **Databases** | API Management, Database Design | ⭐⭐⭐⭐☆ |
+| **Shopify Development** | Online Store 2.0, Liquid, Sections | ⭐⭐⭐⭐⭐ |
+| **Theme Customization** | Dawn, Debut, Impulse, BoostPFS | ⭐⭐⭐⭐⭐ |
+| **Frontend** | HTML5, CSS3, JavaScript, jQuery | ⭐⭐⭐⭐⭐ |
+| **E-commerce Optimization** | Conversion Rate Optimization, UX/UI | ⭐⭐⭐⭐☆ |
+| **Apps Integration** | Oberlo, SEO King, Judge.me, Klaviyo | ⭐⭐⭐⭐☆ |
 
 ### 🛠 Technical Skills Visualization
 
 ```
-JavaScript/TypeScript    █████████░  90%
-React/Next.js            ██████████  92%
-AI Integration           ████████░░  88%
-UI/UX Design             ████████░░  85%
-API & Databases          ███████░░░  80%
+Shopify Development    ██████████  95%
+Theme Customization    ██████████  95%
+HTML/CSS/JavaScript    █████████░  90%
+E-commerce Optimization████████░░  85%
+App Integration        ████████░░  85%
 ```
 
 ### 💡 Soft Skills
 
 ```
-Teamwork     █████████░  90%
-Creativity   ██████████  95%
-Empathy      █████████░  92%
-Communication████████░░  85%
+Attention to Detail  ██████████  95%
+Communication        █████████░  90%
+Problem Solving      █████████░  90%
+Project Management   ████████░░  85%
 ```
 
 ---
 
 ## 🎯 Why Choose Me?
 
-### ⚡ AI-Powered Web Development
-Combine responsive website aesthetics with AI-driven code generation and optimization.
+### 🛍️ Shopify Store Development
+Custom Shopify stores built with the latest features and best practices for optimal performance and user experience.
 
-### 🤖 Chatbot Automation
-Deploy automated conversational AI chatbots that understand and respond to user needs.
+### 🎨 Theme Customization
+Tailored theme designs that align with your brand identity and drive customer engagement and conversions.
+
+### ⚡ Performance Optimization
+Speed and performance optimization to improve store loading times and search engine rankings.
+
+### 🔧 App Integration & Configuration
+Seamless integration of third-party apps to extend your store's functionality and automate processes.
 
 ---
 
-## 🌟 Featured Solutions
+## 🌟 Shopify Solutions
 
 | Solution | Features |
 |---------|----------|
-| **E-Commerce AI** | Product recommendations, automated descriptions, AI support, personalized marketing |
-| **SaaS Platforms** | Custom AI integrations, predictive analytics, automated reporting, API support |
-| **Enterprise Solutions** | Business tools, process automation, data-driven decisions, ML models |
+| **Store Setup** | Complete store configuration, product import, payment setup, shipping configuration |
+| **Theme Development** | Custom theme creation, existing theme modification, mobile-responsive designs |
+| **Conversion Optimization** | A/B testing, UX improvements, checkout optimization, product page enhancement |
+| **Maintenance & Support** | Regular updates, bug fixes, security monitoring, performance optimization |
 
 ---
 
-## 📁 Projects Showcase
+## 📁 Shopify Projects Showcase
 
-### 🛍️ E-Commerce Transformation
-> Increased online sales by 40% with AI-powered product recommendations and chatbot support.
+### 👟 Custom Footwear Store
+> Developed a custom Shopify store for a footwear brand with unique product filtering, size recommendation tool, and integrated loyalty program. Increased conversion rate by 35%.
 
-### 🧠 Intelligent CRM System
-> Automated 70% of customer service interactions with agent-like AI assistants.
+### 🎨 Art Gallery E-commerce
+> Created a visually stunning online gallery with custom product display options, artist profiles, and secure payment processing. Achieved 50% increase in average order value.
 
-### 🗄️ Database Optimization
-> Reduced query time by 65% using AI-driven database restructuring and caching strategies.
+### 🛏️ Home Furnishing Store
+> Implemented a complex product customization feature, inventory management system, and multi-currency support for an international home furnishing retailer. Reduced cart abandonment by 40%.
 
 ---
 
@@ -102,7 +107,7 @@ Mon - Fri, 9:00 AM - 6:00 PM
 
 ## 🎨 Technologies & Tools
 
-`NextAuth.js` `Node.js` `UI/UX` `React` `Next.js` `FastAPI` `Supabase` `NextAuth`
+`Shopify` `Liquid` `HTML5` `CSS3` `JavaScript` `jQuery` `SEO` `Conversion Optimization`
 
 ---
 
@@ -116,7 +121,7 @@ Mon - Fri, 9:00 AM - 6:00 PM
 
 ## 📬 Contact Form
 
-Want to discuss a project or just say hello? Fill out the form on my [portfolio website](index.html) or reach out directly!
+Want to discuss a Shopify project or just say hello? Fill out the form on my [portfolio website](index.html) or reach out directly!
 
 ---
 
