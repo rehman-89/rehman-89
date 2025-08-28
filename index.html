@@ -21,6 +21,7 @@
       background: #000;
       color: white;
       overflow-x: hidden;
+      scroll-behavior: smooth;
     }
 
     /* Particles Background */
@@ -702,18 +703,18 @@
 <nav>
   <div class="logo"><img src="./assets/letter-r.png" alt="My Profile"></div>
   <ul>
-    <li><a href="#">Home</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Features</a></li>
-    <li><a href="#">Solutions</a></li>
-    <li><a href="#">Projects</a></li>
-    <li><a href="#">Contact</a></li>
+    <li><a href="#hero">Home</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#feature">Features</a></li>
+    <li><a href="#solutions">Solutions</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#contact">Contact</a></li>
     <a href="#" class="cv-btn">View My CV</a>
   </ul>
 </nav>
 
 <!-- HERO -->
-<section class="hero">
+<section class="hero" id="hero">
   <h1 id="typewriter"></h1>
   <p>Cutting-edge Web solutions for frontend development, Shopify customization, and interactive animations.</p>
   <div class="buttons">
@@ -724,7 +725,7 @@
 </section>
 
 <!-- ABOUT -->
-<section class="about-section">
+<section class="about-section" id="about">
   <div class="about-container">
     <div class="profile-pic">
       <img src="./assets/IMG_2647.JPG" alt="Profile Picture">
@@ -748,7 +749,7 @@
 
 <!-- SKILLS -->
 <canvas id="particles"></canvas>
-<div class="skills-section">
+<div class="skills-section" id="feature">
   <h2>My Skills</h2>
   <p>A blend of technical expertise and essential soft skills for modern AI-powered web development.</p>
   <div class="skills-container">
@@ -851,6 +852,7 @@
 </div>
 
 <!-- Section Title -->
+
 <h2 class="section-title">Why Choose Me?</h2>
 <p class="section-subtitle">Innovative AI solutions tailored to your web development needs</p>
 
@@ -867,7 +869,7 @@
         <p>Deploy automated conversational AI chatbots that understand and respond to user needs.</p>
     </div>
 </div>
-<section class="section">
+<section class="section" id="solutions">
     <h2>Tailored AI <span>Solutions</span></h2>
     <p>Powering web applications with intelligent technology</p>
     
@@ -909,7 +911,7 @@
         </div>
     </div>
 </section>
-<section class="projects-section">
+<section class="projects-section" id="projects">
     <h2>See some of my <span>projects.</span></h2>
     <div class="projects-grid">
         
@@ -936,7 +938,7 @@
 
     </div>
 </section>
-<section class="contact-section">
+<section class="contact-section" id="contact">
     <!-- Left Info -->
     <div class="contact-info">
         <h2>Get in <span>Touch</span></h2>
