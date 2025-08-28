@@ -1,9 +1,5 @@
 # <img src="assets/letter-r.png" alt="Logo" width="50" height="50"> Rehman Saleem - Portfolio 💻✨
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 116ba99c088afca8fd53efbed50026239779bd3d
 ## 👋 Welcome to My Digital Space!
 
 > **Shopify Developer & Theme Customization Expert | E-commerce Specialist**
