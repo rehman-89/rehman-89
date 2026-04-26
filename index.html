@@ -655,6 +655,16 @@
       border-color: rgba(255, 78, 203, 0.6);
     }
 
+    /* project image styling */
+    .project-image {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-bottom: 15px;
+      display: block;
+    }
+
     .coming-soon {
       background: repeating-linear-gradient(45deg,
           #ffcc00,
@@ -1105,7 +1115,25 @@
       <li><a href="#projects">Projects</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
-    <a href="#" class="cv-btn">View My CV</a>
+    <a href="/assets/Rehman_Saleem.pdf" id="openCv" class="cv-btn">Open My CV</a>
+<script>
+document.getElementById('openCv').addEventListener('click', async function (e) {
+  e.preventDefault();
+  const url = this.href;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error('Fetch failed');
+    const blob = await res.blob();
+    const blobUrl = URL.createObjectURL(blob);
+    window.open(blobUrl, '_blank', 'noopener');
+    // revoke later to free memory
+    setTimeout(() => URL.revokeObjectURL(blobUrl), 60000);
+  } catch (err) {
+    // fallback: open raw URL (may download if server forces)
+    window.open(url, '_blank', 'noopener');
+  }
+});
+</script>
   </nav>
 
   <!-- HERO -->
@@ -1114,8 +1142,8 @@
     <p>Expert in frontend development (HTML, CSS, JavaScript, jQuery), creating responsive and pixel-perfect websites,
       Shopify theme customization.</p>
     <div class="buttons">
-      <a href="#" class="btn-pink">Contact Me</a>
-      <a href="#" class="btn-white">View Work</a>
+      <a href="#contact" class="btn-pink">Contact Me</a>
+      <a href="#projects" class="btn-white">View Work</a>
     </div>
     <div class="scroll-down"></div>
   </section>
@@ -1348,39 +1376,38 @@
       </div>
     </div>
   </section>
+
+  
   <section class="projects-section" id="projects">
     <h2>See some of my <span>projects.</span></h2>
     <div class="projects-grid">
 
       <div class="project-card">
-        <div class="coming-soon">COMING SOON</div>
-        <div class="project-title">Shopify Storefront</div>
-        <div class="project-desc">Custom Shopify theme with responsive design, optimized checkout, and product
-          integration.</div>
-        <a href="#" class="btn">View Project</a>
+        <img src="./assets/p1.png" alt="Bandkult Premium Apple Accessories" class="project-image">
+        <div class="project-title">Bandkult Premium Apple Accessories</div>
+        <div class="project-desc">A modern Shopify store offering high quality iPhone cases and Apple Watch accessories focused on protection, design, and everyday functionality.</div>
+        <a href="https://bandkult.de/" class="btn">View Project</a>
       </div>
 
       <div class="project-card">
-        <div class="coming-soon">COMING SOON</div>
-        <div class="project-title">Portfolio Website</div>
-        <div class="project-desc">Modern portfolio built with HTML, CSS, and jQuery featuring animations & interactive
-          UI.</div>
-        <a href="#" class="btn">View Project</a>
+        <img src="./assets/p2.png" alt="Old Money Luxury Fashion" class="project-image">
+        <div class="project-title">Old Money Luxury Fashion</div>
+        <div class="project-desc">A sleek, high end Shopify fashion store showcasing timeless style, premium collections, and a seamless shopping experience for modern luxury.</div>
+             <a href="https://old-money.com/" class="btn">View Project</a>
       </div>
 
       <div class="project-card">
-        <div class="coming-soon">COMING SOON</div>
-        <div class="project-title">Restaurant Website</div>
-        <div class="project-desc">Fully responsive restaurant landing page with engaging design and smooth navigation.
-        </div>
-        <a href="#" class="btn">View Project</a>
+        <img src="./assets/p3.png" alt="Brewy eCommerce Store" class="project-image">
+        <div class="project-title">Brewy eCommerce Store</div>
+        <div class="project-desc">A modern, high converting Shopify store for a functional mushroom coffee brand focused on wellness, energy, and user experience.</div>
+        <a href="https://brewy.com.au/" class="btn">View Project</a>
       </div>
 
     </div>
   </section>
   <section class="contact-section" id="contact">
     <!-- Left Info -->
-    <div class="contact-info">
+    <div class="contact-info" id="contact">
       <h2>Get in <span>Touch</span></h2>
       <p>Interested in working together or have a project idea? Let’s connect and bring your vision to life. I’m just a
         message away.</p>
@@ -1586,6 +1613,7 @@
     });
 
   </script>
+
 
 
 
