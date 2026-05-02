@@ -4,7 +4,7 @@
 
 > **Shopify Developer & Theme Customization Expert | E-commerce Specialist**
 
-I specialize in creating stunning, high-converting Shopify stores with custom themes and seamless user experiences. With expertise in Shopify development, theme customization, and e-commerce optimization, I help businesses maximize their online sales potential.
+I specialize in creating stunning, high-converting Shopify stores with custom themes and seamless user experiences. With expertise in Shopify development, theme customization, and eCommerce optimization, I help businesses maximize their online sales potential.
 
 ---
 
@@ -60,7 +60,7 @@ Seamless integration of third-party apps to extend your store's functionality an
 | Solution | Features |
 |---------|----------|
 | **Store Setup** | Complete store configuration, product import, payment setup, shipping configuration |
-| **Theme Development** | Custom theme creation, existing theme modification, mobile-responsive designs |
+| **Theme Development** | Custom theme creation, existing theme modification, mobile responsive designs |
 | **Conversion Optimization** | A/B testing, UX improvements, checkout optimization, product page enhancement |
 | **Maintenance & Support** | Regular updates, bug fixes, security monitoring, performance optimization |
 
@@ -75,7 +75,7 @@ Seamless integration of third-party apps to extend your store's functionality an
 > Created a visually stunning online gallery with custom product display options, artist profiles, and secure payment processing. Achieved 50% increase in average order value.
 
 ### 🛏️ Home Furnishing Store
-> Implemented a complex product customization feature, inventory management system, and multi-currency support for an international home furnishing retailer. Reduced cart abandonment by 40%.
+> Implemented a complex product customization feature, inventory management system, and multi currency support for an international home furnishing retailer. Reduced cart abandonment by 40%.
 
 ---
 
