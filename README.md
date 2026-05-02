@@ -2,9 +2,9 @@
 
 ## 👋 Welcome to My Digital Space!
 
-> **Shopify Developer & Theme Customization Expert | E-commerce Specialist**
+> **Shopify Developer & Theme Customization Expert | eCommerce Specialist**
 
-I specialize in creating stunning, high-converting Shopify stores with custom themes and seamless user experiences. With expertise in Shopify development, theme customization, and eCommerce optimization, I help businesses maximize their online sales potential.
+I specialize in creating stunning, high converting Shopify stores with custom themes and seamless user experiences. With expertise in Shopify development, theme customization, and eCommerce optimization, I help businesses maximize their online sales potential.
 
 ---
 
